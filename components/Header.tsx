@@ -23,6 +23,7 @@ const Header: React.FC = () => {
     <>
       <NavLink href="#services">Services</NavLink>
       <NavLink href="#why-us">Why Us</NavLink>
+      <NavLink href="#tools">Tools</NavLink>
       <NavLink href="#advisor">AI Advisor</NavLink>
       <NavLink href="#testimonials">Testimonials</NavLink>
     </>

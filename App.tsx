@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Services from './components/Services';
 import WhyChooseUs from './components/WhyChooseUs';
+import Tools from './components/Tools';
 import GeminiAdvisor from './components/GeminiAdvisor';
 import Testimonials from './components/Testimonials';
 import LocalPresence from './components/LocalPresence';
@@ -17,6 +18,7 @@ const App: React.FC = () => {
         <Hero />
         <Services />
         <WhyChooseUs />
+        <Tools />
         <GeminiAdvisor />
         <Testimonials />
         <LocalPresence />
